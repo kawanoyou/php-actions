@@ -1,4 +1,6 @@
 {
+    "name": "kawanoyou/php-actions",
+    "description": "test",
     "require-dev": {
         "phpunit/phpunit": "^9"
     }
